@@ -636,6 +636,9 @@ pre code {
   padding-right: 15px;
   padding-left: 15px;
 }
+.center-social{
+  text-align: center;
+}
 
 .col {
   -ms-flex-preferred-size: 0;
@@ -10032,7 +10035,7 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
-}
+  }
 
 .text-primary {
   color: #007bff !important;
