@@ -1,10 +1,10 @@
-#YOLOMY
+YOLOMY
 ----------
 
-##About
+About
 
 A Moringa School assignment to test for prep knowlegde in HTML, CSS and JS
 
-##Link
+Link
 
 Access the page on [yolomy]()
