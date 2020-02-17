@@ -1,4 +1,5 @@
 
+
 .btn-primary {
     border-color: #7d0707;
     background-color: #7d0707;
@@ -11,6 +12,13 @@
 
 .brown {
     color: #714d30;
+}
+	
+fieldset {
+    border: solid #7b573a 1px;
+}
+legend {
+	width: auto;
 }
 
 .hr-sect {
